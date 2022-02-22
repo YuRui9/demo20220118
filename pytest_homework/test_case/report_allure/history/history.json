@@ -1,0 +1,41 @@
+{
+  "6b07aa0d25f1a4410661ae8de6de3039" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fba6426d0090e5ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641220324063,
+        "stop" : 1641220324063,
+        "duration" : 0
+      }
+    } ]
+  },
+  "9afa4b9d65ae9dbecff93c5243f54fd3" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fa6077f75c45f72",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: 断言失败，添加到购物车失败\nassert '已成功加入购物车' == '已成功加入购物车1'\n  - 已成功加入购物车1\n  ?         -\n  + 已成功加入购物车",
+      "time" : {
+        "start" : 1645429726842,
+        "stop" : 1645429776889,
+        "duration" : 50047
+      }
+    } ]
+  }
+}

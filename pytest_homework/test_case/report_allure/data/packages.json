@@ -1,0 +1,43 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_pytest",
+    "children" : [ {
+      "name" : "test_02_baidu",
+      "uid" : "fba6426d0090e5ce",
+      "parentUid" : "dfd52efb07a0a97e99bb616307c69cd6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641220324063,
+        "stop" : 1641220324063,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_01_shopping",
+      "uid" : "4fa6077f75c45f72",
+      "parentUid" : "dfd52efb07a0a97e99bb616307c69cd6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1645429726842,
+        "stop" : 1645429776889,
+        "duration" : 50047
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "dfd52efb07a0a97e99bb616307c69cd6"
+  } ]
+}

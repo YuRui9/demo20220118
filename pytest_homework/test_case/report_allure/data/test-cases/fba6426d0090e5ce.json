@@ -1,0 +1,57 @@
+{
+  "uid" : "fba6426d0090e5ce",
+  "name" : "test_02_baidu",
+  "fullName" : "test_pytest.TestTaoBao#test_02_baidu",
+  "historyId" : "6b07aa0d25f1a4410661ae8de6de3039",
+  "time" : {
+    "start" : 1641220324063,
+    "stop" : 1641220324063,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_pytest"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTaoBao"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-O0EB1SU"
+  }, {
+    "name" : "thread",
+    "value" : "3252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_pytest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fba6426d0090e5ce.json",
+  "parameterValues" : [ ]
+}

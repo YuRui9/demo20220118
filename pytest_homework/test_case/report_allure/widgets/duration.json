@@ -1,0 +1,21 @@
+[ {
+  "uid" : "fba6426d0090e5ce",
+  "name" : "test_02_baidu",
+  "time" : {
+    "start" : 1641220324063,
+    "stop" : 1641220324063,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fa6077f75c45f72",
+  "name" : "test_01_shopping",
+  "time" : {
+    "start" : 1645429726842,
+    "stop" : 1645429776889,
+    "duration" : 50047
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

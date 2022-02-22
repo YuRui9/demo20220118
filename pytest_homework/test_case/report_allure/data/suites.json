@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_pytest",
+    "children" : [ {
+      "name" : "TestTaoBao",
+      "children" : [ {
+        "name" : "test_02_baidu",
+        "uid" : "fba6426d0090e5ce",
+        "parentUid" : "489867ff76aca6e0d4e384f473d75563",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641220324063,
+          "stop" : 1641220324063,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_01_shopping",
+        "uid" : "4fa6077f75c45f72",
+        "parentUid" : "489867ff76aca6e0d4e384f473d75563",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645429726842,
+          "stop" : 1645429776889,
+          "duration" : 50047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "489867ff76aca6e0d4e384f473d75563"
+    } ],
+    "uid" : "694e68deb324bbeee7e7d824ab662b5e"
+  } ]
+}

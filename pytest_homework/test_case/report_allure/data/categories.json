@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: 断言失败，添加到购物车失败\nassert '已成功加入购物车' == '已成功加入购物车1'\n  - 已成功加入购物车1\n  ?         -\n  + 已成功加入购物车",
+      "children" : [ {
+        "name" : "test_01_shopping",
+        "uid" : "4fa6077f75c45f72",
+        "parentUid" : "f375bb8de3408aa63113dcac111e48f0",
+        "status" : "failed",
+        "time" : {
+          "start" : 1645429726842,
+          "stop" : 1645429776889,
+          "duration" : 50047
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 7,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f375bb8de3408aa63113dcac111e48f0"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Jan 03 22:32:04 CST 2022","Mon Jan 03 22:32:04 CST 2022","0","","test_pytest","TestTaoBao","","","test_02_baidu",""
+"failed","Mon Feb 21 15:48:46 CST 2022","Mon Feb 21 15:49:36 CST 2022","50047","","test_pytest","TestTaoBao","","","test_01_shopping",""
